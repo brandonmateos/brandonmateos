@@ -18,7 +18,7 @@
 - A passionate Self-taught Front-end developer
 - Currently learning cybersecurity by self 
 - Currently learning Web Development at university
-- Personal website [soon]()
+- Personal website [here](https://brandonmateos.github.io/MyWebSite/)
 
 
 
